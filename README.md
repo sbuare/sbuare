@@ -1,6 +1,1 @@
-- 👋 Hi, I’m @sbuare
-- 👀 I’m interested in ... math, running, drawing, music
-- 🌱 I’m currently learning ... coding :D
-- 💞️ I’m looking to collaborate on ... anything?
-- 😄 Pronouns: ... they/them
-- ⚡ Fun fact: ... none :|
+I'm a mathematics student learning to code
